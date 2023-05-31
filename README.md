@@ -8,4 +8,4 @@
 
 
 #### To contact me,
-* Email: <a href="ekgp7812@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
+*  <a href="ekgp7812@gmail.com"><img src="https://img.shields.io/badge/email-EA4335?style=flat-square&logo=GMail&logoColor=white"/></a>
