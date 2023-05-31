@@ -1,9 +1,9 @@
 ### Dahye Kim ✨
-- Major in statistics and double major in computer science
+- Double major in Statistics and Computer science
 
 I'm interested in deep learning, especially  ..
   - NLG / NLU
-  - image captioning
+  - Vision-Language model
   - Methods about solving data dependency problem! <br>(Semi-supervised learning, Imbalance Data Handling)
 
 
