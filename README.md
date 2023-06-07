@@ -3,8 +3,9 @@
 
 I'm interested in deep learning, especially  ..
   - NLG / NLU
+    - parameter efficient learning
   - Vision-Language model
-  - Methods about solving data dependency problem! <br>(Semi-supervised learning, Imbalance Data Handling..)
+
 
 
 
