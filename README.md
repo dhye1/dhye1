@@ -2,7 +2,7 @@
 - Double major in Statistics and Computer science
 
 I'm interested in **Natural Language Processing**, especially  ..
-  - NLG / NLU
+  - NLG/NLU
     - parameter efficient learning
   - Vision-Language model
 
