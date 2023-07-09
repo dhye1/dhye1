@@ -3,7 +3,6 @@
 
 I'm interested in **Natural Language Processing**, especially  ..
   - NLG/NLU
-    - parameter efficient learning
   - Vision-Language model
 
 
