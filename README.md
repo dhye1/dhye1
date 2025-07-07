@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Metrics](https://metrics.lecoq.io/dhye1?template=classic&introduction=1&nightscout=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&introduction=false&introduction.title=true&nightscout=false&nightscout.url=https%3A%2F%2Fexample.herokuapp.com&nightscout.datapoints=12&nightscout.lowalert=80&nightscout.highalert=180&nightscout.urgentlowalert=50&nightscout.urgenthighalert=250&config.timezone=Asia%2FSeoul)
+
+
+![Night Owl](https://metrics.lecoq.io/dhye1?template=classic&isocalendar=1&languages=1&nightowl=1&config.timezone=Asia%2FSeoul)
