@@ -11,15 +11,14 @@
 ---
 
  📞 **Contact**
-<p align="left">
-  &nbsp;&nbsp;&nbsp;<a href="mailto:ekgp7812@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Gmail"
-      height="20"
-    />
-  </a>
-</p>
+ 
+ <a href="mailto:mailto:ekgp7812@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"
+ height="20"/>
+</a>
+
+
+
 
 
 
